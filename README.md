@@ -1,3 +1,3 @@
-https://github.com/nivalcode
+[Nival, LLC](https://github.com/nivalcode)
 
-https://github.com/bdsul
+[BDS, UL](https://github.com/bdsul)
