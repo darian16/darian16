@@ -8,7 +8,7 @@ Nival, LLC.
 
 Data2Sustain Group, University of Galway.
 
-[![image](https://data2sustain.ie/wp-content/uploads/2023/11/Data2Sustain-logo-01.png)](https://data2sustain.ie)
+[![image](https://github.com/darian16/darian16/assets/18060324/671d2d77-2a26-456a-96c7-425ad8d517c9)](https://data2sustain.ie)
 
 BDS Group, University of Limerick.
 
